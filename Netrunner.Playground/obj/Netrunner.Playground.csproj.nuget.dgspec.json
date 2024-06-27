@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Test\\Study\\Netrunner.Playground\\Netrunner.Playground.csproj": {}
+  },
+  "projects": {
+    "E:\\Test\\Study\\Netrunner.Domain\\Netrunner.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Test\\Study\\Netrunner.Domain\\Netrunner.Domain.csproj",
+        "projectName": "Netrunner.Domain",
+        "projectPath": "E:\\Test\\Study\\Netrunner.Domain\\Netrunner.Domain.csproj",
+        "packagesPath": "C:\\Users\\amaru\\.nuget\\packages\\",
+        "outputPath": "E:\\Test\\Study\\Netrunner.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amaru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Scan": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Test\\Study\\Netrunner.Infrastructure\\Netrunner.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Test\\Study\\Netrunner.Infrastructure\\Netrunner.Infrastructure.csproj",
+        "projectName": "Netrunner.Infrastructure",
+        "projectPath": "E:\\Test\\Study\\Netrunner.Infrastructure\\Netrunner.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\amaru\\.nuget\\packages\\",
+        "outputPath": "E:\\Test\\Study\\Netrunner.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amaru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Test\\Study\\Netrunner.Domain\\Netrunner.Domain.csproj": {
+                "projectPath": "E:\\Test\\Study\\Netrunner.Domain\\Netrunner.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Scan": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Test\\Study\\Netrunner.Playground\\Netrunner.Playground.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Test\\Study\\Netrunner.Playground\\Netrunner.Playground.csproj",
+        "projectName": "Netrunner.Playground",
+        "projectPath": "E:\\Test\\Study\\Netrunner.Playground\\Netrunner.Playground.csproj",
+        "packagesPath": "C:\\Users\\amaru\\.nuget\\packages\\",
+        "outputPath": "E:\\Test\\Study\\Netrunner.Playground\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amaru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Test\\Study\\Netrunner.Domain\\Netrunner.Domain.csproj": {
+                "projectPath": "E:\\Test\\Study\\Netrunner.Domain\\Netrunner.Domain.csproj"
+              },
+              "E:\\Test\\Study\\Netrunner.Infrastructure\\Netrunner.Infrastructure.csproj": {
+                "projectPath": "E:\\Test\\Study\\Netrunner.Infrastructure\\Netrunner.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Scan": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

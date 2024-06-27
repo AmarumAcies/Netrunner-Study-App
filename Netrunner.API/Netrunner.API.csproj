@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Scan" Version="1.0.1" />
+    <PackageReference Include="Microsoft.NETCore.App" Version="2.2.8" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Netrunner.Application\Netrunner.Application.csproj" />
+    <ProjectReference Include="..\Netrunner.Domain\Netrunner.Domain.csproj" />
+    <ProjectReference Include="..\Netrunner.Infrastructure\Netrunner.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

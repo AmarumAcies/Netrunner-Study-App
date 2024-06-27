@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SbGUZfZzdst5KBsm+xi1/NFzmi4DrANztOnUJbnTeF4=",
+  "Source": "Netrunner.API",
+  "BasePath": "_content/Netrunner.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

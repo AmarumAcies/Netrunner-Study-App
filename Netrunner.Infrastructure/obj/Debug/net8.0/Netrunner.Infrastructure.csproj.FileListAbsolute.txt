@@ -1,0 +1,15 @@
+E:\Test\Study\Netrunner.Infrastructure\bin\Debug\net8.0\Netrunner.Infrastructure.deps.json
+E:\Test\Study\Netrunner.Infrastructure\bin\Debug\net8.0\Netrunner.Infrastructure.dll
+E:\Test\Study\Netrunner.Infrastructure\bin\Debug\net8.0\Netrunner.Infrastructure.pdb
+E:\Test\Study\Netrunner.Infrastructure\bin\Debug\net8.0\Netrunner.Domain.dll
+E:\Test\Study\Netrunner.Infrastructure\bin\Debug\net8.0\Netrunner.Domain.pdb
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\Netrunner.Infrastructure.csproj.AssemblyReference.cache
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\Netrunner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\Netrunner.Infrastructure.AssemblyInfoInputs.cache
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\Netrunner.Infrastructure.AssemblyInfo.cs
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\Netrunner.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\Netrunner.Infrastructure.csproj.CopyComplete
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\Netrunner.Infrastructure.dll
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\refint\Netrunner.Infrastructure.dll
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\Netrunner.Infrastructure.pdb
+E:\Test\Study\Netrunner.Infrastructure\obj\Debug\net8.0\ref\Netrunner.Infrastructure.dll
