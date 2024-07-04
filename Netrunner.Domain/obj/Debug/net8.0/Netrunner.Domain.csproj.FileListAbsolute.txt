@@ -1,0 +1,12 @@
+E:\Test\Study\Netrunner.Domain\bin\Debug\net8.0\Netrunner.Domain.deps.json
+E:\Test\Study\Netrunner.Domain\bin\Debug\net8.0\Netrunner.Domain.dll
+E:\Test\Study\Netrunner.Domain\bin\Debug\net8.0\Netrunner.Domain.pdb
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\Netrunner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\Netrunner.Domain.AssemblyInfoInputs.cache
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\Netrunner.Domain.AssemblyInfo.cs
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\Netrunner.Domain.csproj.CoreCompileInputs.cache
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\Netrunner.Domain.dll
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\refint\Netrunner.Domain.dll
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\Netrunner.Domain.pdb
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\ref\Netrunner.Domain.dll
+E:\Test\Study\Netrunner.Domain\obj\Debug\net8.0\Netrunner.Domain.csproj.AssemblyReference.cache
